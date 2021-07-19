@@ -1,0 +1,9 @@
+*
+demo
+!*/
+!.gitignore
+!*.hdl
+!*.py
+!/04/**/*.asm
+!/05/*.asm
+!/12/*.jack
